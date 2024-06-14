@@ -234,5 +234,4 @@ WHERE Project_detail.id_proj IN (SELECT id_proj FROM Project WHERE nama = 'B');
 ![gambar_ss13](Screenshot/5.png)
 
 ## Terimakasih 
-<img src=https://nugasin.com/template/assets/photo/deasty_digital.jpg width="130px" >
-<img src=https://dcassetcdn.com/design_img/597433/138089/138089_3947431_597433_image.jpg width="130px" >
+<img src=https://nugasin.com/template/assets/photo/deasty_digital.jpg width="130px" > <img src=https://dcassetcdn.com/design_img/597433/138089/138089_3947431_597433_image.jpg width="130px" >
